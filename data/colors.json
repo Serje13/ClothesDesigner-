@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "white",
+    "liSF": "mainWhiteF.png",
+    "liSB": "mainWhiteB.png",
+    "sF": "smallWhiteF.png",
+    "sB": "smallWhiteB.png"
+  },
+  {
+    "id": 2,
+    "name": "red",
+    "liSF": "redF.png",
+    "liSB": "redB.png",
+    "sF": "smallRedF.png",
+    "sB": "smallRedB.png"
+  },
+  {
+    "id": 3,
+    "name": "black",
+    "liSF": "blackF.png",
+    "liSB": "blackB.png",
+    "sF": "smallBlackF.png",
+    "sB": "smallBlackB.png"
+  },
+  {
+    "id": 4,
+    "name": "brown",
+    "liSF": "brownF.png",
+    "liSB": "brownB.png",
+    "sF": "smallBrownF.png",
+    "sB": "smallBrownB.png"
+  },
+  {
+    "id": 5,
+    "name": "green",
+    "liSF": "greenF.png",
+    "liSB": "greenB.png",
+    "sF": "smallGreenF.png",
+    "sB": "smallGreenB.png"
+  },
+  {
+    "id": 6,
+    "name": "grey",
+    "liSF": "greyF.png",
+    "liSB": "greyB.png",
+    "sF": "smallGreyF.png",
+    "sB": "smallGreyB.png"
+  }
+]
+  
+
